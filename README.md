@@ -1,6 +1,7 @@
 # wakethefuckup
 An Automate flow to handle my stoopid brain
 
+![](Wakethefuckup.png)
 ---
 
 ## So, essentially, here is the story
