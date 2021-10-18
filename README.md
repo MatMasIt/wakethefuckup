@@ -1,4 +1,7 @@
 # wakethefuckup
+
+![GitHub](https://img.shields.io/github/license/MatMasIt/wakethefuckup)
+
 An Automate flow to handle my stoopid brain
 
 ![](Wakethefuckup.png)
